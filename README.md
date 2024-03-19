@@ -1,3 +1,4 @@
+# Project 1 
 # SMS Spam Classifier
 
 This project aims to classify SMS messages as either spam or ham (not spam) using machine learning algorithms. The project involves several steps, including data cleaning, exploratory data analysis (EDA), text preprocessing, model building, evaluation, and deployment.
@@ -36,5 +37,5 @@ This project aims to classify SMS messages as either spam or ham (not spam) usin
 - Save the best-performing model and TF-IDF Vectorizer using pickle for future use.
 - Deploy the model using a web application framework like Flask or Streamlit.
 
-This project was developed by Tushti Savarn.
-Dataset source: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+These project was developed by Tushti Savarn.
+Dataset source(project 1): https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
